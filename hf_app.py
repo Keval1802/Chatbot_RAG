@@ -174,7 +174,6 @@ questions.
     )
 
     chatbot = gr.Chatbot(
-        type="messages",
         label="Chat",
         height=500,
     )
